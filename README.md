@@ -9,3 +9,5 @@
 ## Лайв:
 
 [Живая демонстрация](https://the-arthur.github.io/vue-js-lofty-test/)
+
+
